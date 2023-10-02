@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Nizamabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-02T07:18:37.380Z",
+      "notes": "",
+      "position": {
+        "lat": "18.6670631919266",
+        "lng": "78.123779296875"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Jhudo",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-10-02T07:18:54.366Z",
+      "notes": "",
+      "position": {
+        "lat": "24.826624956562167",
+        "lng": "69.36767578125001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Registan",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2023-10-02T07:19:03.879Z",
+      "notes": "",
+      "position": {
+        "lat": "30.401306519203583",
+        "lng": "64.75341796875001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2023-10-02T09:04:18.429Z",
+      "notes": "",
+      "position": {
+        "lat": "35.85343961959182",
+        "lng": "14.589843750000002"
+      },
+      "id": 6
+    }
+  ]
+}
